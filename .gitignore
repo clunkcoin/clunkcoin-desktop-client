@@ -2,3 +2,4 @@ build
 modules
 libs
 CMakeLists.txt.user
+.DS_Store
