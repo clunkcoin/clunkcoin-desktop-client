@@ -1,2 +1,4 @@
 build
 modules
+libs
+CMakeLists.txt.user
